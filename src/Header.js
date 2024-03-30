@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 function Header(){
     return(
-<div><h1>Header</h1></div>
-);
+        
+    <header> <h1>Prabhu <span>K</span>umar</h1></header>
+    );
 };
-
 
 export default Header;
